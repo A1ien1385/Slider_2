@@ -1,0 +1,27 @@
+[
+    {
+        "image": "https://drive.google.com/uc?id=1sDUjSGgTOqqx3y3y0pUOuCPhGzocH40f",
+        "title": "Main Page",
+        "subtitle": "p3",
+        "interval": 3000
+     },
+    {
+       "image": "https://drive.google.com/uc?id=1LHhLMMIktCvDGlyjP7OwTA3CKtdPN8D0",
+       "title": "Amdusias",
+       "subtitle": "p3",
+       "interval": 3000
+    },
+    {
+        "image": "https://drive.google.com/uc?id=1YyRnLj6JRWEOIwNbMP5_FCBoz6SxlvMN",
+        "title": "Dantalion",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+    {
+        "image": "https://drive.google.com/uc?id=1MaOlRQOw-6ndFt1V19Py_bWSIaOsloUx",
+        "title": "Succubus",
+        "subtitle": "p1",
+        "interval": 3000
+    }
+]
+
