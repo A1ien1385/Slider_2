@@ -1,16 +1,139 @@
 [
     {
         "image": "https://drive.google.com/uc?id=1sDUjSGgTOqqx3y3y0pUOuCPhGzocH40f",
-        "title": "Main Page",
-        "subtitle": "p3",
+        "title": "",
+        "subtitle": "",
         "interval": 3000
-     },
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1SGEwd5jTo3RO5aRoIPUgbL-xtNJzdJmf",
+        "title": "Lilith",
+        "subtitle": "Lilith description",
+        "interval": 3000
+    },
+
+   
+
+    {
+        "image": "https://drive.google.com/uc?id=10ZjHgg7_WiTCZdE_Oym1cSoN7WjT5THc",
+        "title": "Succubus",
+        "subtitle": "Succubus description",
+        "interval": 3000
+    },
+    {
+        "image": "https://drive.google.com/uc?id=1Vx1DylojSI2H25o7CCsaBHldtYznun16",
+        "title": "Succubus",
+        "subtitle": "Succubus description",
+        "interval": 3000
+    },
+    {
+        "image": "https://drive.google.com/uc?id=1xH_Rp8lfqEI_cQUjayHfAANTKor-NSaw",
+        "title": "Succubus",
+        "subtitle": "Succubus description",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1MaOlRQOw-6ndFt1V19Py_bWSIaOsloUx",
+        "title": "Succubus",
+        "subtitle": "Succubus description",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=140_YqC_w7zEqBYHmBXSGjIeM7A-7tGN9",
+        "title": "Lucifer",
+        "subtitle": "Lucifer description",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=14ZS--oUhQNMW95F06XMXPLxU-N_FP5iR",
+        "title": "Lucifer",
+        "subtitle": "Lucifer description",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1W6eGJr1WbYCRVHleX4ZcxSZ6ru0P6H6r",
+        "title": "Lucifer",
+        "subtitle": "Lucifer description",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=18r8GQd1KmDy6ZASeMOLd7x2pU26hmfQO",
+        "title": "Lucifer",
+        "subtitle": "Lucifer description",
+        "interval": 3000
+    },
+
     {
        "image": "https://drive.google.com/uc?id=1LHhLMMIktCvDGlyjP7OwTA3CKtdPN8D0",
        "title": "Amdusias",
        "subtitle": "p3",
        "interval": 3000
     },
+
+    {
+        "image": "https://drive.google.com/uc?id=1h7pwReDWLLJTYGPf9YhAvnwxDnVSSWup",
+        "title": "Amdusias",
+        "subtitle": "p3",
+        "interval": 3000
+     },
+
+    {
+        "image": "https://drive.google.com/uc?id=1AwhxMUOoQ4BjY9vkEZaLtRE2VlzL3vxj",
+        "title": "Samael",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1LKFnTin2uc99Y_xEf4kLH_BhvdjblaoJ",
+        "title": "Samael",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
+   
+
+    {
+        "image": "https://drive.google.com/uc?id=1qgldJpix8ZqBTl6Wqh-I7IrCLai7DZge",
+        "title": "Eligos",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1XEuuZPJo-Mrk07IGklp47DGpmT6x0ise",
+        "title": "Eligos",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1XNP3xQmNqyqiQQNcL5QT7NhTCpbZ-sBV",
+        "title": "Eligos",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
+    {
+        "image": "https://drive.google.com/uc?id=1gt8eiHzMnWBJwmrlhTQPLuIx72vTdRNk",
+        "title": "Vapar",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+    
+    {
+        "image": "https://drive.google.com/uc?id=1xRHw5f4EjzKtv11ryPEonaURrF4sqG9S",
+        "title": "Vapar",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+
     {
         "image": "https://drive.google.com/uc?id=1YyRnLj6JRWEOIwNbMP5_FCBoz6SxlvMN",
         "title": "Dantalion",
@@ -18,10 +141,17 @@
         "interval": 3000
     },
     {
-        "image": "https://drive.google.com/uc?id=1MaOlRQOw-6ndFt1V19Py_bWSIaOsloUx",
-        "title": "Succubus",
-        "subtitle": "p1",
+        "image": "https://drive.google.com/uc?id=1waQGtpewRYYDO3RxcowGwzl_YsKVfdAy",
+        "title": "Dantalion",
+        "subtitle": "p2",
+        "interval": 3000
+    },
+    {
+        "image": "https://drive.google.com/uc?id=1hnyrm4BWK2a464LEpvGtDcjhuoso1lAa",
+        "title": "Dantalion",
+        "subtitle": "p2",
         "interval": 3000
     }
+
 ]
 

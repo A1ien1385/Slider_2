@@ -17,8 +17,8 @@ export const Slider = ({slides}) => {
         shadowScale: 0.94,
       }}
       modules={[Navigation, Pagination, Scrollbar, A11y, EffectCube]}
-      navigation
-      pagination={{ clickable: true }}
+      
+      navigation={{ clickable: true }}
       scrollbar={{ draggable: true }}
       spaceBetween={50}
       slidesPerView={1}
@@ -28,6 +28,10 @@ export const Slider = ({slides}) => {
       {slides.map((slide) => (
          <SwiperSlide className='slide' key={slide.image}>
                    <img src={slide.image} alt={slide.title}/>
+                   <div className='text_box'>
+                    <h2 className='text'>{slide.title}</h2>
+                    <h3 className='text'>{slide.subtitle}</h3>
+                   </div>
          </SwiperSlide> 
       ))}
       

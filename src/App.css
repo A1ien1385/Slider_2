@@ -1,16 +1,50 @@
+.text
+{
+  color: white;
+  text-align: center;
+}
+
 body
 {
   background-color: black;
+  overflow-x: hidden;
 }
 
-img {
-  height: 100vh;
-  display: block;
-}
+
+@media (min-width: 1440px) {
 
 .slide
 {
-  height: 100vh;
-  background-color: black;
+  margin-top: 50px;
+  width: 100vw;
+  
 }
 
+img {
+  /* height: 70vh; */
+  height: 70vh;
+  display: block;
+  margin: auto;
+}
+
+
+}
+
+
+@media (max-width: 1439px) {
+
+  .slide
+  {
+    margin-top: 50px;
+    width: 100vw;
+  }
+  
+  img {
+    /* height: 70vh; */
+    width: 90vw;
+    display: block;
+    margin: auto;
+  }
+  
+  
+  }
