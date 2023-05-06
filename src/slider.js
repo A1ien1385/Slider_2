@@ -29,7 +29,7 @@ export const Slider = ({slides}) => {
          <SwiperSlide className='slide' key={slide.image}>
                    <img src={slide.image} alt={slide.title}/>
                    <div className='text_box'>
-                    <h2 className='text'>{slide.title}</h2>
+                    <h2 className='text title'>{slide.title}</h2>
                     <h3 className='text'>{slide.subtitle}</h3>
                    </div>
          </SwiperSlide> 

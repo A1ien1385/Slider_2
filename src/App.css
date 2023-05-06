@@ -1,8 +1,21 @@
+.text_box
+{
+  padding: 0 50px;
+}
+
 .text
 {
   color: white;
   text-align: center;
+  font-weight: 300;
+  letter-spacing: 2px;
 }
+
+.title
+{
+  font-weight: 500;
+}
+
 
 body
 {
