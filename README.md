@@ -1,5 +1,5 @@
 # Link to application:
-# https://a1ien1385.github.io/Demonologia/
+# https://A1ien1385.github.io/Slider_2
 
 # Getting Started with Create React App
 
